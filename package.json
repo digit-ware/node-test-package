@@ -1,5 +1,5 @@
 {
-  "name": "test-node-package",
+  "name": "@digit-ware/test-node-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
