@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/digit-ware/node-test-package#readme",
   "publishConfig": {
-   "domenicovent:registry": "https://npm.pkg.github.com"
+   "digit-ware:registry": "https://npm.pkg.github.com"
  }
 }
