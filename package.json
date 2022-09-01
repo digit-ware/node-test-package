@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/digit-ware/node-test-package/issues"
   },
-  "homepage": "https://github.com/digit-ware/node-test-package#readme"
+  "homepage": "https://github.com/digit-ware/node-test-package#readme",
   "publishConfig": {
    "domenicovent:registry": "https://npm.pkg.github.com"
  }
